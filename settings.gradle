@@ -1,3 +1,0 @@
-include ':helloworld'
-include ':app'
-rootProject.name = "LibHelloWorld"
