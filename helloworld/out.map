@@ -1,0 +1,11 @@
+# compiler: R8
+# compiler_version: 2.0.88
+# pg_map_id: a6bd6e8
+# common_typos_disable
+net.airplanez.android.lib.helloworld.BuildConfig -> net.airplanez.android.lib.helloworld.BuildConfig:
+    1:1:void <init>():6:6 -> <init>
+net.airplanez.android.lib.helloworld.HelloWorld -> net.airplanez.android.lib.helloworld.HelloWorld:
+    1:1:void <init>():3:3 -> <init>
+net.airplanez.android.lib.helloworld.HelloWorld$Companion -> net.airplanez.android.lib.helloworld.HelloWorld$Companion:
+    1:1:void <init>():4:4 -> <init>
+    2:2:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):4:4 -> <init>
